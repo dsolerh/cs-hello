@@ -1,0 +1,16 @@
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/hello-cs
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/hello-cs.deps.json
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/hello-cs.runtimeconfig.json
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/hello-cs.runtimeconfig.dev.json
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/hello-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/ref/hello-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/bin/Debug/net5.0/hello-cs.pdb
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.csproj.AssemblyReference.cache
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.AssemblyInfoInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.AssemblyInfo.cs
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/ref/hello-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.pdb
+/mnt/Storage/Projects/netcore/c#book-code/hello-cs/obj/Debug/net5.0/hello-cs.genruntimeconfig.cache

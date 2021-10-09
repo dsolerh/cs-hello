@@ -6,7 +6,8 @@ namespace hello_cs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, c#");
+            int z;
         }
     }
 }
